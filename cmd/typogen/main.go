@@ -7,9 +7,9 @@ import (
 
 	"golang.org/x/net/idna"
 
-	"zenithar.org/go/typogenerator"
-	"zenithar.org/go/typogenerator/mapping"
-	"zenithar.org/go/typogenerator/strategy"
+	"../../"
+	"../../mapping"
+	"../../strategy"
 
 	"github.com/hduplooy/gocsv"
 	"github.com/namsral/flag"
