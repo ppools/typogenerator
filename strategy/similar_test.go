@@ -3,8 +3,8 @@ package strategy_test
 import (
 	"testing"
 
-	"zenithar.org/go/typogenerator/mapping"
-	"zenithar.org/go/typogenerator/strategy"
+	"../mapping"
+	"../strategy"
 )
 
 func TestSimilar(t *testing.T) {

@@ -3,7 +3,7 @@ package strategy_test
 import (
 	"testing"
 
-	"zenithar.org/go/typogenerator/strategy"
+	"../strategy"
 )
 
 func TestHomoglyph(t *testing.T) {

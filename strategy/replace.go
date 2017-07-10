@@ -3,8 +3,8 @@ package strategy
 import (
 	"fmt"
 
-	"zenithar.org/go/typogenerator/helpers"
-	"zenithar.org/go/typogenerator/mapping"
+	"../helpers"
+	"../mapping"
 )
 
 type replaceStrategy struct {
